@@ -1,2 +1,2 @@
-# 3D-Eucliden-Space-AR
+# 3D-Euclidean-Space-AR
 AR Project developed for Commonwealth of Learning using Unity ARFoundation
