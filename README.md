@@ -7,28 +7,28 @@ AR Project developed for Commonwealth of Learning using Unity ARFoundation
 
 ## Development Environment
 1. Hardware
-* Alienware Aurora R8
+* Alienware Aurora R8        
     CPU  : Intel Core i7-9700K@3.6 Ghz  
     RAM  : 16GB  
     OS   : Windows 10, 1809 Build       
     GPU  : Nvidia RTX2080         
-* iMac 27 inch Retina 5K (Late 2019)
+* iMac 27 inch Retina 5K (Late 2019)     
     CPU  : Intel Core i5@3 Ghz     
     RAM  :  32GB     
     OS   : macOS Mojave 10.14.4     
     GPU  : AMD Radeon Pro 570X     
-* Nokia 8 (TA-1004)
+* Nokia 8 (TA-1004)     
     AP       : Snapdragon 835     
     RAM      : 4GB     
     Screen   : 1440 X 2560 pixels (554 ppi)     
     Camera   : 13MP, f/2.0     
     OS       :  Android 9 (Pie)     
-* iPad Mini 5 (2019)
+* iPad Mini 5 (2019)     
     AP       : A12 Bionic     
     RAM      : 3GB     
     Screen   : 1536 X 2047 pixels (326 ppi)     
     Camera   : 8MP, f/2.4     
-    OS       : iOS 12.3.1     
+    OS       : iOS 12.3.1        
 2. Software    
 * Unity3D Game Engine 2019.1.6f Build – https://unity.com     
     Imported Packages: AR Foundation 2.1.0, ARCore XR Plugin 2.1.0, ARKit XR Plugin 2.1.0, TextMesh Pro
@@ -45,4 +45,6 @@ AR Project developed for Commonwealth of Learning using Unity ARFoundation
 * Gimp 2.10.8 - https://www.gimp.org
 * Adobe Mixamo – https://www.mixamo.com 
 * Amazon Polly – https://aws.amazon.com/polly
-* Codebeautify.org - https://codebeautify.org/yaml-to-json-xml-csv
+* Codebeautify.org - https://codebeautify.org/yaml-to-json-xml-csv     
+
+## Building Prcoess in Unity     
