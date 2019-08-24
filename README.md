@@ -49,7 +49,10 @@ AR Project developed for Commonwealth of Learning using Unity ARFoundation
 ## Development Process     
 Graphic tools used in this project perform better on the Window PC. For that advantage, the entire project was built on the Windows PC first, and then transferred to iMac as a Unity package file.      
 Files and data transfer between software and libraries is summarized and visualized in the following diagram.   
-![alt](https://github.com/COL-inno/3D-Eucliden-Space-AR/blob/master/Images/software_and_libs_slide.jpg)
+![alt](https://github.com/COL-inno/3D-Eucliden-Space-AR/blob/master/Images/software_and_libs_slide.jpg)      
+        
+[Full Document](https://github.com/COL-inno/3D-Eucliden-Space-AR/blob/master/3DEuclideanSpaceAR_Document.pdf) of Development Process     
+
 ## Build Prcoess in Unity     
 1. Download the Unity Package for [Andriod](https://github.com/COL-inno/3D-Eucliden-Space-AR/raw/master/3DEuclideanSpace_Android_082219.unitypackage) or [iOS](https://github.com/COL-inno/3D-Eucliden-Space-AR/raw/master/3DEuclideanSpace_iOS_082219.unitypackage)     
 2. Import the package into Unity Editor (Asset->Import Package->Custom Package)     
