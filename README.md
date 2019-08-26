@@ -58,8 +58,8 @@ Files and data transfer between software and libraries is summarized and visuali
 1. Download the Unity Package for [Andriod](https://github.com/COL-inno/3D-Eucliden-Space-AR/raw/master/3DEuclideanSpace_Android_082219.unitypackage) or [iOS](https://github.com/COL-inno/3D-Eucliden-Space-AR/raw/master/3DEuclideanSpace_iOS_082219.unitypackage)     
 2. Import the package into Unity Editor (Asset->Import Package->Custom Package)     
 3. Type "screen" in User Layer 8 (Edit->Project Settings->Tags and Layers->Layer)     
-4. Under Player Setting, fill the Company Name, Product Name and Version      
-5. Select the icon from found in the Texture folder(COL AR)     
+4. Under Player Setting, fill the Company Name, Product Name and Version sections.     
+5. Select the icon found in the Texture folder(COL AR)     
 6. Under Other Setting,      
 For Android,      
 * Remove Vulkan from Graphics APIs     
@@ -67,7 +67,7 @@ For Android,
 * Switch Scripting Backend to IL2CPP and check ARMv7 and ARM64     
       
 For iOS,     
-* Fill the package Name, version, bundle version code accordingly     
+* Fill the package name, version, bundle version code accordingly     
 * Type "11.0" for Taget minimum iOS version     
 * Check "Requires ARKit support"     
 * Switch Architecture to ARM64     
